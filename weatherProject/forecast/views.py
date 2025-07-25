@@ -15,7 +15,7 @@ import pytz
 import os
 
 
-API_KEY = '0cfbe6840e85dae64a9fd8ad1abcb3e5' 
+API_KEY = 'Replace With Your API Key' 
 BASE_URL = 'https://api.openweathermap.org/data/2.5/'
 
 # 1. Fetch Current Weather Data
